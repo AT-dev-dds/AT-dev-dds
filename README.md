@@ -65,6 +65,11 @@ Repository: https://github.com/AT-dev-dds/react-learning
 To evolve into a **full-stack developer capable of building scalable, production-ready MERN applications**.
 
 ---
+## Contribution Graph
+
+![Snake animation](https://github.com/AT-dev-dds/AT-dev-dds/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## Links
 
